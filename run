@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo ./host.sh
-./install_dep.sh
-./install_bitcoin.sh
+./dependencies.sh
+./bitcoin.sh
 ./blockchain_torrent.sh
 
